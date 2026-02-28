@@ -1,7 +1,9 @@
 # Data Analysis Projects
 
-This repository contains multiple separate data analysis projects examining different datasets.
-
+This repository contains two  separate data analysis projects examining different datasets.
+this was done and created to do 2 things 
+- to learn and try out different pull request 
+-data analysis practice 
 
 ## Getting Started
 

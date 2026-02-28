@@ -8,7 +8,7 @@ this was done and created to do 2 things
 ## Getting Started
 
 Each project folder contains its own README and Final Reports with specific instructions and details about the analysis. The analyses are conducted using Jupyter notebooks with Python.
-
+you can fork it or clone it for your self
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook
